@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "509841981751",
+    "project_id": "rektefe-f5b13",
+    "storage_bucket": "rektefe-f5b13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509841981751:android:5ec11c9ff1da08b51a1ab2",
+        "android_client_info": {
+          "package_name": "com.mycompany.giris2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509841981751-vr5j1p6nsjqjhakev32ceati0spn1feu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.giris2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "509841981751-vbual42qdgkg43mupl2vpbcvo03p087c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD957eyGgg4M4CNaocLQannDsQk_MnJPpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509841981751-vbual42qdgkg43mupl2vpbcvo03p087c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509841981751-d8oeiptgjg2sjf95c1fhor9oo0k0ub4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.rektefe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509841981751:android:a687b0b8e14e42801a1ab2",
+        "android_client_info": {
+          "package_name": "com.mycompany.rektefe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509841981751-1ss17sn59102q6v149na1hn6gmnau3b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.rektefe",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "509841981751-vbual42qdgkg43mupl2vpbcvo03p087c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD957eyGgg4M4CNaocLQannDsQk_MnJPpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509841981751-vbual42qdgkg43mupl2vpbcvo03p087c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509841981751-d8oeiptgjg2sjf95c1fhor9oo0k0ub4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.rektefe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
