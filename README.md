@@ -1,3 +1,3 @@
 # 🚗 REKTEFE - Araç Bakım Platformu
 
-Modern ve kullanıcı dostu araç bakım yönetim platformu. 
+Modern ve kullanıcı dostu araç bakım yönetim platformu.
